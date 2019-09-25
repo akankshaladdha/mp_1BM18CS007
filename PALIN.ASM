@@ -51,5 +51,5 @@ notpalin : display msg3
 last : mov ah,4ch
         int 21h
         end
-        jz back1
+        
 
